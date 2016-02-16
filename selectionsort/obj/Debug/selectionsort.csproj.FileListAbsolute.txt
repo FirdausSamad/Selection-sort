@@ -1,0 +1,6 @@
+c:\users\firdaus samad\documents\visual studio 2013\Projects\selectionsort\selectionsort\bin\Debug\selectionsort.exe.config
+c:\users\firdaus samad\documents\visual studio 2013\Projects\selectionsort\selectionsort\obj\Debug\selectionsort.csprojResolveAssemblyReference.cache
+c:\users\firdaus samad\documents\visual studio 2013\Projects\selectionsort\selectionsort\bin\Debug\selectionsort.exe
+c:\users\firdaus samad\documents\visual studio 2013\Projects\selectionsort\selectionsort\bin\Debug\selectionsort.pdb
+c:\users\firdaus samad\documents\visual studio 2013\Projects\selectionsort\selectionsort\obj\Debug\selectionsort.exe
+c:\users\firdaus samad\documents\visual studio 2013\Projects\selectionsort\selectionsort\obj\Debug\selectionsort.pdb
